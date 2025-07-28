@@ -4,7 +4,7 @@
   <img src="img/logo_wave2.jpeg" style="width: 25%; margin: 0 10px;">
   <img src="img/logo_uboigny.jpeg" style="width: 20%; margin: 0 10px;">
 </div>
-----
+-------
 
 This is the github repository of the web site for the interdisciplinary meeting of the bioinformatics and systems administration community in West Africa in 2025. 
 
