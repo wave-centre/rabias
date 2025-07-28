@@ -62,6 +62,12 @@ bioinfo@wave-center.org
 <img src="assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%;">
 <img src="assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
 <img src="assets/img/logo_itrop.png" style="display: block; margin: 0 auto; width: 16%;">
+</div>
+
+<br />
+<br />
+
+<div style="display:flex">
 <img src="assets/img/logo_ifb.png" style="display: block; margin: 0 auto; width: 25%; ">
 <img src="assets/img/logo_sfbi.png" style="display: block; margin: 0 auto; width: 16%;">
 <img src="assets/img/logo_um.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
