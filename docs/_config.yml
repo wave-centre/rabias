@@ -1,0 +1,35 @@
+# RABIAS Jekyll config
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+title: "RABIAS"
+email: julie.orjuela@ird.fr
+description: "West Africa Network in Bioinformatics" 
+baseurl: "rabias" # the subpath of your site, e.g. /blog
+url: "https://julieaorjuela.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: julieorjuela
+github_username:  julieaorjuela
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag       # SEO metatags
+  - jekyll-sitemap       # sitemap.xml
+  - jekyll-remote-theme  # required for remote_theme
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  debug: false
+  collections: 'posts'
+  per_page: 5
+  permalink: '/page/:num/'
+
+relative_permalinks : false
+
+github:
+  repo: https://github.com/julieaorjuela/rabias
