@@ -16,7 +16,10 @@ pagination:
 
 <div>
  <p align="justify">
-First interdisciplinary meeting of the bioinformatics and systems administration community in West Africa, with a view to creating a West African Bioinformatics Network. 
+Welcome to our international workshop on genomics and bioinformatics, an unmissable event for professionals and enthusiasts in the Bioinformatics field! From December 15 to 17, 2025, in Abidjan, Côte d'Ivoire, this workshop will bring together leading teams from bioinformatics platforms across several West African countries, as well as renowned French institutions. This event is a unique opportunity to enhance your skills, share knowledge and resources, and build a dynamic community around bioinformatics challenges. Don't miss this chance to engage in enriching exchanges, expand your professional network, and contribute to innovative collaborative projects. 
+
+Join us to shape the future of bioinformatics in West Africa!
+
 <br/>
 
 <div style="display: flex; align-items: center;">
@@ -58,6 +61,7 @@ bioinfo@wave-center.org
 <div style="display:flex">
 <img src="assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%;">
 <img src="assets/img/logo_ird.png" style="display: block; margin: 0 auto; width: 16%;">
+<img src="assets/img/logo_itrop.png" style="display: block; margin: 0 auto; width: 16%;">
 <img src="assets/img/logo_ifb.png" style="display: block; margin: 0 auto; width: 25%; ">
 <img src="assets/img/logo_sfbi.png" style="display: block; margin: 0 auto; width: 16%;">
 <img src="assets/img/logo_um.jpeg" style="display: block; margin: 0 auto; width: 20%; ">
