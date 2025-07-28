@@ -34,7 +34,7 @@ pagination:
 relative_permalinks : false
 
 github:
-  repo: https://wave-centre.github.io/rabias
+  repo: https://github.com/wave-centre/rabias
 
 
 # Author (used by JekyllSEOtag)
