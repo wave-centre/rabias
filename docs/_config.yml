@@ -7,12 +7,12 @@ markdown:         redcarpet
 highlighter:      pygments
 
 title: "RABIAS"
-email: julie.orjuela@ird.fr
-description: "West Africa Network in Bioinformatics" 
+email: bioinfo@wave-center.org
+description: "Meeting of bioinformaticians and system administrators in West Africa" 
 baseurl: "rabias" # the subpath of your site, e.g. /blog
-url: "https://julieaorjuela.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: julieorjuela
-github_username:  julieaorjuela
+url: "https://wave-centre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: julieorjuela
+#github_username:  julieaorjuela
 
 plugins:
   - jekyll-feed
@@ -32,4 +32,4 @@ pagination:
 relative_permalinks : false
 
 github:
-  repo: https://github.com/julieaorjuela/rabias
+  repo: https://wave-centre.github.io/rabias
