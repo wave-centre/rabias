@@ -14,6 +14,8 @@ url: "https://wave-centre.github.io" # the base hostname & protocol for your sit
 #twitter_username: julieorjuela
 #github_username:  julieaorjuela
 
+
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -33,3 +35,9 @@ relative_permalinks : false
 
 github:
   repo: https://wave-centre.github.io/rabias
+
+
+# Author (used by JekyllSEOtag)
+author:
+  name: "Julie Orjuela"
+  email: "julie.orjuela@ird.fr"
