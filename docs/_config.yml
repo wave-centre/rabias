@@ -10,7 +10,7 @@ highlighter:      pygments
 title: "RABIAS"
 email: bioinfo@wave-center.org
 description: "Meeting of bioinformaticians and system administrators in West Africa" 
-baseurl: "rabias" # the subpath of your site, e.g. /blog
+baseurl: "/rabias" # the subpath of your site, e.g. /blog
 url: "https://wave-centre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: julieorjuela
 #github_username:  julieaorjuela
