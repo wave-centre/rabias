@@ -16,7 +16,6 @@ url: "https://wave-centre.github.io" # the base hostname & protocol for your sit
 #github_username:  julieaorjuela
 
 
-
 plugins:
   - jekyll-feed
   - jekyll-paginate
