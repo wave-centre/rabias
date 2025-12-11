@@ -72,15 +72,6 @@ bioinfo@wave-center.org
 </div>
 </div>
 
-<div style="display: flex; align-items: center;">
-<div style="margin-left: 15px; margin-right: 10px;">
-<img src="assets/img/icon_email-5.png">
-</div>
-<div>
-bioinfo@wave-center.org
-</div>
-</div>
-
 <br /><br /><br />
 <div style="display:flex">
 <img src="assets/img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%;">
