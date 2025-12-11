@@ -19,6 +19,7 @@ pagination:
 Welcome to our international workshop on genomics and bioinformatics, an unmissable event for professionals and enthusiasts in the Bioinformatics field! From December 15 to 17, 2025, in Abidjan, Côte d'Ivoire, this workshop will bring together leading teams from bioinformatics platforms across several West African countries, as well as renowned French institutions. This event is a unique opportunity to enhance your skills, share knowledge and resources, and build a dynamic community around bioinformatics challenges. Don't miss this chance to engage in enriching exchanges, expand your professional network, and contribute to innovative collaborative projects. 
 
 Join us to shape the future of bioinformatics in West Africa!
+ </p>
 
 <br/>
 
@@ -36,8 +37,6 @@ Join us to shape the future of bioinformatics in West Africa!
 <div style="margin-left: 15px; margin-right: 10px;">
 <img src="assets/img/icon_place-8.png">
 </div>
-<br/>
-
 <div>
 The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Excellence</a>, Université Félix Houphouët-Boigny, Bingerville, Abdijan
 </div>
@@ -62,8 +61,6 @@ Join us !
 <div style="margin-left: 15px; margin-right: 10px;">
 <img src="assets/img/icon_email-5.png">
 </div>
-
-<br/>
 <div>
 bioinfo@wave-center.org
 </div>
