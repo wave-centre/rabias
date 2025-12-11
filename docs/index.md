@@ -42,11 +42,11 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 </div>
 </div>
 
-<<br />
+<br />
 
 <div style="display: flex; align-items: flex-start;">
     <div style="margin-left: 15px; margin-right: 10px;">
-        <img src="assets/img/icon_email-5.png">
+        <img src="assets/img/zoom.png">
     </div>
     <div> 
         <h2>Online meeting attending</h2>
