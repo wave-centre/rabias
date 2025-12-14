@@ -50,9 +50,9 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
     </div>
     <div> 
         <h2>Online meeting attending</h2>
-        <p>You are kindly invited to register for the RABIAS **online meeting**, which will take place via Zoom.</p>
+        <p>You are kindly invited to register for the RABIAS online meeting, which will take place via Zoom.</p>
 
-        <p><strong>Time</strong>: Starting at 8:30 AM (UTC)</p>
+        <p><strong>Time</strong>: Starting at 8:30 AM (UTC+00:00, GMT+0)</p>
 
         <p>Please make sure to complete your registration before the event begins using the 
         <a href="https://us02web.zoom.us/meeting/register/q3exUOEzRqCmWfntFyoWhg" target_blank>link zoom</a></p>
